@@ -34,6 +34,4 @@ RSS_FEEDS = [
     "https://globalnews.ca/world/feed/",
     "https://www.saba.ye/en/rsscatfeed18.htm",
     "https://www.saba.ye/en/rsscatfeed60.htm",
-    "https://www.crisisgroup.org/rss/2",
-    "https://www.crisisgroup.org/rss/4708",
-]
+    ]
