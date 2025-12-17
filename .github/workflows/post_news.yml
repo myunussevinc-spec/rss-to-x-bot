@@ -2,7 +2,7 @@ name: RSS to X Bot
 
 on:
   schedule:
-    - cron: "0 8-23 * * *"   # her gün 09:00
+    - cron: "0 8 * * *"   # her gün 09:00
   workflow_dispatch:
 
 jobs:
