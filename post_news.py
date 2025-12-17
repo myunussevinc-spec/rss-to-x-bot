@@ -35,6 +35,6 @@ RSS_FEEDS = [
     "https://www.saba.ye/en/rsscatfeed18.htm",
     "https://www.saba.ye/en/rsscatfeed60.htm",
     "https://www.crisisgroup.org/rss/2",
-    "https://www.crisisgroup.org/rss/9", //afrika boynuzu
+    "https://www.crisisgroup.org/rss/9", 
     "https://www.crisisgroup.org/rss/4708",
 ]
