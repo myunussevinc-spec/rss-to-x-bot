@@ -13,7 +13,7 @@ RSS_FEEDS = [
     "https://www.ntv.com.tr/son-dakika.rss",
     "http://feeds.bbci.co.uk/news/rss.xml",
     "https://tr.defensehere.com/rss/son-dakika",
-    "https://tr.defensehere.com/rss/yapay-zeka"
+    "https://tr.defensehere.com/rss/yapay-zeka",
     "https://tr.defensehere.com/rss/tsk",
     "https://tr.defensehere.com/rss/teknoloji",
     "https://tr.defensehere.com/rss/savunma-sanayii",
